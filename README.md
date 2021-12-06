@@ -1,24 +1,3 @@
-# README
+This repository is the api of horse racing forecast BBS.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If you want to know how to construct a development environment, please see https://github.com/mterada1228/horse_racing_forecase_bbs.
